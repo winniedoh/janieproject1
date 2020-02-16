@@ -1,1 +1,3 @@
-# janieproject1
+# maven-project
+
+Simple Maven Project
